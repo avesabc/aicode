@@ -1,1 +1,2 @@
 # aicode
+cp with ai
